@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **web development projects focusing on Full-Stack technologies like .NET and Angular.js.**
 
-- 🤝 I’m looking for help with **learning web API and related banking materials**
+- 🤝 I’m looking for help with **learning web API and related banking technologies**
 
 - 💬 Ask me about **.NET**
 
