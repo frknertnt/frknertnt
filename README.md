@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
-<h3 align="center">A passionate Full-Stack from Turkey</h3>
+<h3 align="center">A passionate Full-Stack Developer from Turkey</h3>
 
 - 🔭 I’m currently working on [VakıfBank Bootcamp](https://cohorts.patika.dev/cohorts)
 
