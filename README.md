@@ -1,6 +1,18 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">A passionate Full-Stack from Turkey</h3>
 
+- 🔭 I’m currently working on [VakıfBank Bootcamp](https://cohorts.patika.dev/cohorts)
+
+- 🌱 I’m currently learning **.NET vs Angular**
+
+- 👯 I’m looking to collaborate on **web development projects focusing on Full-Stack technologies like .NET and Angular.js.**
+
+- 🤝 I’m looking for help with **learning web API and related banking materials**
+
+- 💬 Ask me about **.NET**
+
+- 📫 How to reach me **furkanertantu@outlook.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/furkan-ertantu-418921170/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/furkan-ertantu-418921170/" height="30" width="40" /></a>
